@@ -2,7 +2,9 @@
 ## Description of the dataset
 ###Accelerometer
 Static X,Y,Z
+```
 Dynamic X,Y,Z
+```
 ###GPS and depth
 ## Instruction for running the code
 Use Python, Scikit, Keras ...
