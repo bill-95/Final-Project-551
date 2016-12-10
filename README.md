@@ -1,6 +1,7 @@
 # Final-Project-551
-## Description of the dataset
+# Description of the dataset
 
+There are seven csv files in the dataset. Each file contains sensor data from an individual bird with the following columns.
 
 * FID - this is just an identifier that associates each row back to the unsampled data
 
@@ -52,10 +53,11 @@
 
 * behaviour - a rough classfication of behaviour based on the GPS and depth data, which could help with training the algorithm or checking your results
 
-## Instruction for running the code
-Use Python, Scikit, Keras ...
+# Instruction for running the code
 ## SVM, Decision Trees, Logistic Regression, Naive Bayes
+Require scikit-learn, numpy
 ## Hidden Markov Model
-## Neural Networks
-###Feedforward Neural Net
-###Recurrent Neural Net
+Requires scikit-learn, numpy
+## Neural Network
+Requires Keras with Theano backend, and Python3
+
